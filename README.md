@@ -52,6 +52,9 @@ This class method takes in an argument of a name. It queries the database table 
 
 This method updates the database row mapped to the given `Student` instance. 
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-orm-update-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-orm-update-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 
 <a href='https://learn.co/lessons/orm-update-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
 <p data-visibility='hidden'>PHRG ORM Update Lab</p>
